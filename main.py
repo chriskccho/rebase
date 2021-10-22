@@ -7,3 +7,8 @@ def add(num1: int, num2:int)->int:
     param stuff
     '''
     return num1 + num2
+
+def divide(num1:int, num2:int)->int:
+    '''some docstring again'''
+    return num1/num2
+
